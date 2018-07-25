@@ -1,14 +1,7 @@
 
-<p align="center">
-### A Report on
-# Image Classification using CNN
-
-
-
-
+### <p align="center"> A Report on </p>
+# <p align="center"> Image Classification using CNN </p>
 ## COMPUTER SCIENCE AND ENGINEERING
-
-
 
 By
 #### Rajnish Kumar Ranjan
