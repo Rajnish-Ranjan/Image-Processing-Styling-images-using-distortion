@@ -4,7 +4,7 @@
 
 
 
-##COMPUTER SCIENCE AND ENGINEERING
+## COMPUTER SCIENCE AND ENGINEERING
 
 
 
@@ -16,3 +16,8 @@ By
 ### UNDER THE GUIDANCE OF
 ### Dr. Rajendra Pamula
 ### Assistant Professor
+
+![alt text](https://rajnish-ranjan.github.io/iit.jpg)
+
+## INDIAN INSTITUTE OF TECHNOLOGY
+## (INDIAN SCHOOL OF MINES)
