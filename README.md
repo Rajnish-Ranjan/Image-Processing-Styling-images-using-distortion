@@ -1,3 +1,5 @@
+
+<p align="center">
 ### A Report on
 # Image Classification using CNN
 
@@ -21,3 +23,4 @@ By
 
 ## INDIAN INSTITUTE OF TECHNOLOGY
 ## (INDIAN SCHOOL OF MINES)
+</p>
