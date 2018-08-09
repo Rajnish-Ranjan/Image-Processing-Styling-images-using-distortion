@@ -1,6 +1,6 @@
 
 ### <p align="center"> A Report on </p>
-# <p align="center"> Image Classification using CNN </p>
+# <p align="center"> Image Processing and Segmentation Techniques </p>
 ## COMPUTER SCIENCE AND ENGINEERING
 
 By
